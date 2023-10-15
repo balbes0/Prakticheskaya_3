@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        int currentOctave = 1; // Изначально выбрана первая октава
+        int currentOctave = 1;
 
         Console.WriteLine("Для воспроизведения нот A - J клавиши, F5 и F6 для переключения октав, Escape - выход");
 
